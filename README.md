@@ -24,6 +24,8 @@ func main() {
 ```
 
 # Use
+Make sure lotus-miner is running
+
 ### --file sector id file
 ```
 3000
